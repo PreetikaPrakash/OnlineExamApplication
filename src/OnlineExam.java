@@ -120,7 +120,9 @@ public class OnlineExam extends Frame implements ActionListener {
                 JOptionPane.showMessageDialog(this,message +"\n" +finalResult);
                 System.out.println("hello");
             }
-            else{}
+            else{
+                System.out.println("out");
+            }
 
 
 
